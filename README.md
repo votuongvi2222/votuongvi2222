@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Vo Tuong Vi (Võ Tường Vi).
 
 <!--
 **vivo2222/vivo2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning java backend.
+- 🚩 Language: Vietnamese (English).
+- 💬 Ask me about java. 
+- 📫 How to reach me: votuongvi2222002@gmail.com
+- 😄 Pronouns: She ( or bro 😳)
+- ⚡ Fun fact: actually my specialty is math 😉.
