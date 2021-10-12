@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 - 🚩 Language: Vietnamese (English).
 - 📫 How to reach me: votuongvi2222002@gmail.com 
-- 😄 Pronouns: She 
-- ⚡ Fun fact: actually my specialty is math 😉.
-- Join and share ^^
